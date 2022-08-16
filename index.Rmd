@@ -1,0 +1,118 @@
+---
+title: "NLP day: Big Data in Health Research"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: scroll
+    css: style.css
+---
+
+# Intro {.sidebar}
+This dashboard covers the NLP day of the Big Data in Health Research summer course: [Big Data](https://utrechtsummerschool.nl/courses/life-sciences/big-data).
+
+
+---
+
+<!-- <center> -->
+<!-- ![](logo.jpg){width=100%} -->
+<!-- </center> -->
+
+\
+[Ayoub Bagheri](https://ayoubbagheri.nl/)
+
+---
+
+# Quick Overview
+
+## Column 1
+
+### Outline
+
+This day introduces the basic concepts of NLP and text analysis in Python. You will learn how to apply text mining methods on text data and analyse them with machine learning and natural language processing algorithms.
+
+In this course, we deal with the following topics:
+
+* Review the fundamental approaches to text mining
+* Understand and apply current methods for analyzing texts
+
+
+### Additional references
+1- Jurafsky, D., Martin, J.H. (2021). Speech and language processing, third edition. Find online chapters [here](https://web.stanford.edu/~jurafsky/slp3/)
+
+
+2- Eisenstein, J. (2018). Natural Language Processing. Find online chapters [here](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+
+## Column 2
+
+### Schedule
+
+| Start time | End time | Type      |
+|:-----------|:---------|:----------|
+|  10:00     | 11:30    | Lecture 1   |
+|  11:30     | 12:30    | Practical 1 |
+|  12:30     | 13:00    | Discussion|
+|            |**Lunch break** |           |
+|  14:00     | 15:30    | Lecture 2 |
+|  15:30     | 16:30    | Practical 2 |
+|  16:30     | 17:00    | Discussion |
+
+# How to prepare
+
+## Column 1
+
+### Preparing your machine
+
+To realize a steeper learning curve, we will use some functionality from the Python programming language using Google Colab. The below steps guide you through how to use Python and work on the practicals in this day.
+
+### System requirements
+
+Bring a laptop computer to the course and make sure that you have an Internet connection to be able to use Python in Google Colab. If you are using PyCharm or Jupyter Notebook, also check that you have full write access and administrator rights to the machine. Some corporate laptops come with limited access for their users, we therefore advice you to bring a personal laptop computer, if you have one.
+
+### Python in Google Colab
+Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It is a powerful environment for scientific computing.
+
+We expect that many of you will have some experience with Python; for the rest of you, this section will serve as a quick crash course both on the Python programming language and on the use of Python in Google Colab:
+
+Follow the [tutorial on Python in Google Colab for the Applied Text Mining course from here.](Python_in_Google_Colab_Applied_Text_Mining.html)
+
+This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=dzNng6vCL9eP).
+
+## Column 2
+
+### Alternative approach
+
+I prefer to use Jupyter Notebook or PyCharm when I am not using Google Colab. 
+
+- You can find an extensive tutorial by JetBrains on how to install and use PyCharm from [here.](https://www.jetbrains.com/help/pycharm/quick-start-guide.html)
+
+- A beginner’s tutorial on how to use Jupyter Notebook: [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
+# Lectures
+## Column 1
+
+### Lectures
+
+Here you will find the lecture slides:
+
+- [Lecture 1](lectures/lecture_01.pdf)
+- [Lecture 2](lectures/lecture_02.pdf)
+
+# Practicals
+## Column 1
+
+### Practicals
+
+Here you will find the practical files for the lab sessions:
+
+Practical 1:
+
+- [Practical 1_Answers](practicals/Practical 1/Practical_01_answers.html)
+- [Data for Practical 1](practicals/Practical 1/data.zip)
+
+
+
+Practical 2:
+
+* [Practical 2_Answers](practicals/Practical 2/Practical_02_answers.html)
+
